@@ -66,4 +66,5 @@ node mineserver.puppet {
     ensure => stopped,
     enable => false,
   }
+include minecraft
 }
