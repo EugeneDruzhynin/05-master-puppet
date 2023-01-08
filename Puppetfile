@@ -1,2 +1,5 @@
 mod 'puppet-nginx', '4.2.0'
+mod 'puppetlabs-stdlib', '8.5.0'
+mod 'puppetlabs-java', '9.0.1'
+mod 'puppet-archive', '6.1.0'
 mod 'puppet-minecraft', '5.0.0'
